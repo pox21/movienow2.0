@@ -1,4 +1,4 @@
-# https://pox21.github.io/movienow/#/
+# https://pox21.github.io/movienow2.0
 
 # movienow
 
